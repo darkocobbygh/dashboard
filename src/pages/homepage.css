@@ -1,0 +1,25 @@
+.users{
+    width: 90vw;
+    max-width: 1170px;
+    margin: 5rem auto;
+    display: flex;
+    gap: 5rem;
+    color: black;
+    font-weight:bold ;
+    font-size: 2rem;
+}
+
+.user{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ins{
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
